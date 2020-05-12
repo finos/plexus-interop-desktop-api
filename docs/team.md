@@ -1,6 +1,6 @@
 ---
 id: team
-title: {project name} Team
+title: plexus-interop-desktop-api Team
 ---
 
 ....

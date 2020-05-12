@@ -19,8 +19,8 @@ $ npm -v
 2. Install and run Docusaurus locally
 
 ```sh
-$ git clone git@github.com:<your fork>/{project name}.git
-$ cd {project name}
+$ git clone git@github.com:<your fork>/plexus-interop-desktop-api.git
+$ cd plexus-interop-desktop-api
 
 # Download dependencies
 $ yarn --cwd website install
